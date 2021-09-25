@@ -1,4 +1,4 @@
-# Semantic_causality_2020
+# Semantic_causality
 
 ## Haddad Ayale & Agliz Yasmine
 
